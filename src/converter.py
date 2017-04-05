@@ -17,7 +17,7 @@ import string
 
 keylist = []
 strmap = {}
-with open('string.csv') as csvfile:
+with open('demo.csv') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
             keylist.append(row['keymain'])
@@ -36,7 +36,7 @@ strmap = dict(map(lambda (key, value):(string.lower(key),value),strmap.items()))
 # In[16]:
 
 from lxml import etree
-doc = etree.parse('main.xliff')
+doc = etree.parse('demo.xliff')
 docroot = doc.getroot()
 
 
