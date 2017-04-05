@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="demo/Base.lproj/demo.storyboard" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0Bg-gD-dem.text">
+        <source>Logged-out</source>
+        <target></target>
+        <note>Class = "UILabel"; text = "Logged-out"; ObjectID = "0Bg-gD-VdM";</note>
+      </trans-unit>
+      <trans-unit id="0zm-2W-dem.text">
+        <source>880</source>
+        <target>880</target>
+      </trans-unit>
+      <trans-unit id="1NQ-Bw-dem.text">
+        <source>cofirm</source>
+        <target></target>
+        <note>Class = "UILabel"; text = "Confirm"; ObjectID = "1NQ-Bw-dem";</note>
+      </trans-unit>
+      <trans-unit id="1Yk-1d-dem.text">
+        <source>PASSWORD</source>
+        <target></target>
+        <note>Class = "UILabel"; text = "PASSWORD"; ObjectID = "1Yk-1d-dem";</note>
+      </trans-unit>
+      <trans-unit id="1gv-dv-dem.text">
+        <source>880</source>
+        <target>880</target>
+        <note>Class = "UITextField"; text = "+880"; ObjectID = "1gv-dv-dem";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
